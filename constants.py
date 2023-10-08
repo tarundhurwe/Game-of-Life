@@ -9,7 +9,7 @@ class Constants:
     NET_WIDTH = WIDTH // BLOCK_SIZE
     NET_HEIGHT = HEIGHT // BLOCK_SIZE
     FPS = 35
-    UPDATE_FREQUENCY = 20
+    UPDATE_FREQUENCY = 5
 
 
 class Containers:
